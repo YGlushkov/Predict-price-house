@@ -2,12 +2,12 @@
 This app takes in a user's information about their house and predicts the price of their house using a Gradient Boosting model with huber loss and 1000 regression trees of depth 6.
 
 <p align="center">
-  <img src="example.png" width="450" title="example">
+  <img src="example.png" width="800" title="example">
 </p>
 
 ## Dataset:
 <p align="center">
-  <img src="dataset.png" width="450" title="example">
+  <img src="dataset.png" width="1450" title="example">
 </p>
 
 ## Containers:
