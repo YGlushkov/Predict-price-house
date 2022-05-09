@@ -20,7 +20,7 @@ MLFlow: track model training
 
 ## Start 
 clone the repository
-go to project's folder and run docker-compose up 
+go to project's folder and run 'docker-compose up' 
 launch in web browser http://127.0.0.1:8000/
 
 
