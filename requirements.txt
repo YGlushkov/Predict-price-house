@@ -1,0 +1,14 @@
+click
+Flask
+celery
+flask
+redis
+itsdangerous
+Jinja2
+MarkupSafe
+numpy
+scikit-learn
+scipy
+sklearn
+Werkzeug
+gunicorn
